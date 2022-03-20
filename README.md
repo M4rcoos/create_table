@@ -5,4 +5,6 @@
 
  <h2> treinamento Rocketseat 🚀</h2>
  <p> A Tabela foi desenvolvida durante o guia estrelar HTML, guia para dar os primeiros passos em HTML e aprimorar os conhecimentos</p>
- <h3> conheça a <hrf="https://www.rocketseat.com.br/">rocketseat</> </h3>
+ <h3> conheça a rocketseat acessando o link abaixo👇 </h3>
+ 
+ <p>Link : <a href="https://calculosimples.netlify.app/"> Rocketseat🚀</a></p>
