@@ -7,4 +7,4 @@
  <p> A Tabela foi desenvolvida durante o guia estrelar HTML, guia para dar os primeiros passos em HTML e aprimorar os conhecimentos</p>
  <h3> conheça a rocketseat acessando o link abaixo👇 </h3>
  
- <p>Link : <a href="https://rocketseat.com"> Rocketseat🚀</a></p>
+ <p>Link : <a href="https://www.rocketseat.com.br/"> Rocketseat🚀</a></p>
